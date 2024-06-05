@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    //nums on buttons
+    <string name="bt_zero">Zero</string>
+    <string name="bt_one">One</string>
+    <string name="bt_two">Two</string>
+    <string name="bt_three">Three</string>
+    <string name="bt_four">Four</string>
+    <string name="bt_five">Five</string>
+    <string name="bt_six">Six</string>
+    <string name="bt_seven">Seven</string>
+    <string name="bt_eight">Eigth</string>
+    <string name="bt_nine">Nine</string>
+    //sings on buttons
+    <string name="bt_c">C</string>
+    <string name="bt_left">Left</string>
+    <string name="bt_plus">Plus</string>
+    <string name="bt_minus">Minus</string>
+    <string name="bt_divide">Divide</string>
+    <string name="bt_dot">Dot</string>
+    <string name="bt_multiply">Multiply</string>
+    <string name="bt_menu">Menu</string>
+    <string name="bt_percent">Percent</string>
+    <string name="bt_equal">Equal</string>
+</resources>
