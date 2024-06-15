@@ -14,7 +14,7 @@ This is a simple and convenient calculator written in Java. It supports basic ar
 - Calculation of percentage
 
 ## Screenshots
-![Screenshot](ссылка-на-скриншот)
+![Screenshot](https://github.com/Danila2006/Calculator-Application/blob/master/screenshot.jpeg)
 
 ## Установка
 
