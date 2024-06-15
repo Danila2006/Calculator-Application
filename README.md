@@ -1,19 +1,20 @@
 # Java Calculator
 
-## Описание
-Это простой и удобный калькулятор, написанный на Java. Он поддерживает базовые арифметические операции, такие как сложение, вычитание, умножение и деление.
+## Description
+This is a simple and convenient calculator written in Java. It supports basic arithmetic operations such as addition, subtraction, multiplication and division, as well as root and percentage calculations.
 
-## Функциональность
-- Сложение
-- Вычитание
-- Умножение
-- Деление
-- Поддержка десятичных чисел
-- Обработка ошибок (например, деление на ноль)
+## Functionality
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Decimal numbers support
+- Error handling (for example, division by zero)
+- Finding the root
+- Calculation of percentage
 
-## Скриншоты
-(Добавьте скриншоты, если есть графический интерфейс)
-![Скриншот](ссылка-на-скриншот)
+## Screenshots
+![Screenshot](ссылка-на-скриншот)
 
 ## Установка
 
